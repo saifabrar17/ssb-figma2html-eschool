@@ -182,15 +182,15 @@ body {
     display: flex;
 }
 
-.testimonial-speech .col-12 img {
+.testimonial-speech .col-md-4 img {
     width: 100px;
     height: 100px;
-    margin-left: 20%;
+    display: block;
+    margin: auto;
 }
 
-.testimonial-speech .col-12 p {
-    width: 580px;
-    height: 90px;
+.testimonial-speech  p {
+
     font-size: 16px;
     line-height: 30px;
     text-align: justify;
