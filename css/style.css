@@ -45,8 +45,7 @@ body {
 .banner-p p {
     color: #000000;
     margin-top: 15px;
-    width: 403px;
-    height: 85px;
+    width: 70%;
     font-size: 16px;
     font-weight: 600;
 }
@@ -249,5 +248,6 @@ text-align: justify;
     margin-top: 70px;
     margin-bottom: 0;
 }
+
 
 
